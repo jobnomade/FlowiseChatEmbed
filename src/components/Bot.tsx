@@ -31,7 +31,7 @@ export type BotProps = {
     fontSize?: number
 }
 
-const defaultWelcomeMessage = 'Hi there! How can I help?'
+const defaultWelcomeMessage = 'Was möchten Sie über VDS 10000 wissen?'
 
 /*const sourceDocuments = [
     {
