@@ -61,7 +61,7 @@ export const Badge = (props: Props) => {
           id="lite-badge"
           style={{ "font-weight": 'bold', color: props.poweredByTextColor ?? defaultTextColor }}
       >
-        <span> Ainfach.ai & Flowise</span>
+        <span> Ainfach.ai</span>
       </a>
     </span>
   )
